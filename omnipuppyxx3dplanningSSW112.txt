@@ -1,0 +1,118 @@
+Southern Warm-Dry Continental Trend
+
+1: Foreign Empirical Structure Dogma SimilarIncome - 
+2: Foreign Empirical Structure Dogma SimilarMonetary Holdings - 
+3: Foreign Empirical Structure Dogma SimilarIntellect - 
+4: Foreign Empirical Structure Dogma SimilarKnowledge - 
+5: Foreign Empirical Structure Dogma SimilarSpiritual Knowledge -
+6: Foreign Empirical Structure Dogma SimilarTechnical Skill - 
+7: Foreign Empirical Structure Dogma SimilarCultural Training -
+8: Foreign Empirical Structure Dogma SimilarEntertainment Skill -
+9: Foreign Empirical Structure Dogma SimilarMarketting Knowledge -
+10: Foreign Empirical Structure Dogma SimilarArtistic Creativity - 
+11: Foreign Empirical Structure Dogma SimilarCharisma - 
+12: Foreign Empirical Structure Dogma SimilarCreative Solutions -
+13: Foreign Empirical Structure Dogma SimilarAllustria - 
+14: Foreign Empirical Structure Dogma SimilarConversational Dynamics -
+15: Foreign Empirical Structure Dogma SimilarDrug Dependancy - 
+16: Foreign Empirical Structure Dogma SimilarBias -
+17: Foreign Empirical Structure Dogma SimilarPattern Habits - 
+18: Foreign Empirical Structure Dogma SimilarStrength -
+19: Foreign Empirical Structure Dogma SimilarAthletic Habits -
+20: Foreign Empirical Structure Dogma SimilarDietary Patterns - 
+21: Foreign Empirical Structure Dogma SimilarStructured Patriotism - 
+22: Foreign Empirical Structure Dogma SimilarWill Power - 
+23: Foreign Empirical Structure Dogma SimilarRigidity of Bones -
+24: Foreign Empirical Structure Dogma SimilarElasticity of Cell Reform - 
+25: Foreign Empirical Structure Dogma SimilarImmunity Resilience -
+26: Foreign Empirical Structure Dogma SimilarOrganized Membership - 
+27: Foreign Empirical Structure Dogma SimilarEmployment State -
+28: Foreign Empirical Structure Dogma SimilarEmotional Habitry -
+29: Foreign Empirical Structure Dogma SimilarLinguistic Skills - 
+30: Foreign Empirical Structure Dogma SimilarPrior Budget Analytics - 
+31: Foreign Empirical Structure Dogma SimilarTeamWork Shortcomings - 
+32: Foreign Empirical Structure Dogma SimilarWeaknesses (Cellular) -
+33: Foreign Empirical Structure Dogma SimilarWeaknesses (Toxicity) -
+34: Foreign Empirical Structure Dogma SimilarWeaknesses (Environmental) -
+35: Foreign Empirical Structure Dogma SimilarWeaknesses (Conversational) -
+36: Foreign Empirical Structure Dogma SimilarWeaknesses (Sexual) -
+37: Foreign Empirical Structure Dogma SimilarWeaknesses (Emotional) -
+38: Foreign Empirical Structure Dogma SimilarWeaknesses (Logical) -
+39: Foreign Empirical Structure Dogma SimilarWeaknesses (Economic) -
+40: Foreign Empirical Structure Dogma SimilarWeaknesses (Neuro-Reactive) -
+41: Foreign Empirical Structure Dogma SimilarStrength (Cellular) -
+42: Foreign Empirical Structure Dogma SimilarStrength (Toxicity) -
+43: Foreign Empirical Structure Dogma SimilarStrength (Environmental) -
+44: Foreign Empirical Structure Dogma SimilarStrength (Conversational) -
+45: Foreign Empirical Structure Dogma SimilarStrength (Sexual) -
+46: Foreign Empirical Structure Dogma SimilarStrength (Emotional) -
+47: Foreign Empirical Structure Dogma SimilarStrength (Logical) -
+48: Foreign Empirical Structure Dogma SimilarStrength (Economic) -
+49: Foreign Empirical Structure Dogma SimilarStrength (Neuro-Reactive) -
+50: Foreign Empirical Structure Dogma SimilarSocio-Political Trend -
+51: Foreign Empirical Structure Dogma SimilarEducational Trend -
+52: Foreign Empirical Structure Dogma SimilarPhysiological Attractions -
+53: Foreign Empirical Structure Dogma SimilarNeuroChemical Attractions -
+54: Foreign Empirical Structure Dogma SimilarPhysical Athetic Trends - 
+55: Foreign Empirical Structure Dogma SimilarPhysical Sexual Trends -
+56: Foreign Empirical Structure Dogma Similar Physical Violence Trends -
+
+Southern Warm-Dry Continental Trend
+
+1: Local Sacred Society Similar Income - 
+2: Local Sacred Society Similar Monetary Holdings - 
+3: Local Sacred Society Similar Intellect - 
+4: Local Sacred Society Similar Knowledge - 
+5: Local Sacred Society Similar Spiritual Knowledge -
+6: Local Sacred Society Similar Technical Skill - 
+7: Local Sacred Society Similar Cultural Training -
+8: Local Sacred Society Similar Entertainment Skill -
+9: Local Sacred Society Similar Marketting Knowledge -
+10: Local Sacred Society Similar Artistic Creativity - 
+11: Local Sacred Society Similar Charisma - 
+12: Local Sacred Society Similar Creative Solutions -
+13: Local Sacred Society Similar Allustria - 
+14: Local Sacred Society Similar Conversational Dynamics -
+15: Local Sacred Society Similar Drug Dependancy - 
+16: Local Sacred Society Similar Bias -
+17: Local Sacred Society Similar Pattern Habits - 
+18: Local Sacred Society Similar Strength -
+19: Local Sacred Society Similar Athletic Habits -
+20: Local Sacred Society Similar Dietary Patterns - 
+21: Local Sacred Society Similar Structured Patriotism - 
+22: Local Sacred Society Similar Will Power - 
+23: Local Sacred Society Similar Rigidity of Bones -
+24: Local Sacred Society Similar Elasticity of Cell Reform - 
+25: Local Sacred Society Similar Immunity Resilience -
+26: Local Sacred Society Similar Organized Membership - 
+27: Local Sacred Society Similar Employment State -
+28: Local Sacred Society Similar Emotional Habitry -
+29: Local Sacred Society Similar Linguistic Skills - 
+30: Local Sacred Society Similar Prior Budget Analytics - 
+31: Local Sacred Society Similar TeamWork Shortcomings - 
+32: Local Sacred Society Similar Weaknesses (Cellular) -
+33: Local Sacred Society Similar Weaknesses (Toxicity) -
+34: Local Sacred Society Similar Weaknesses (Environmental) -
+35: Local Sacred Society Similar Weaknesses (Conversational) -
+36: Local Sacred Society Similar Weaknesses (Sexual) -
+37: Local Sacred Society Similar Weaknesses (Emotional) -
+38: Local Sacred Society Similar Weaknesses (Logical) -
+39: Local Sacred Society Similar Weaknesses (Economic) -
+40: Local Sacred Society Similar Weaknesses (Neuro-Reactive) -
+41: Local Sacred Society Similar Strength (Cellular) -
+42: Local Sacred Society Similar Strength (Toxicity) -
+43: Local Sacred Society Similar Strength (Environmental) -
+44: Local Sacred Society Similar Strength (Conversational) -
+45: Local Sacred Society Similar Strength (Sexual) -
+46: Local Sacred Society Similar Strength (Emotional) -
+47: Local Sacred Society Similar Strength (Logical) -
+48: Local Sacred Society Similar Strength (Economic) -
+49: Local Sacred Society Similar Strength (Neuro-Reactive) -
+50: Local Sacred Society Similar Socio-Political Trend -
+51: Local Sacred Society Similar Educational Trend -
+52: Local Sacred Society Similar Physiological Attractions -
+53: Local Sacred Society Similar NeuroChemical Attractions -
+54: Local Sacred Society Similar Physical Athetic Trends - 
+55: Local Sacred Society Similar Physical Sexual Trends -
+56: Local Sacred Society Similar Physical Violence Trends -
+

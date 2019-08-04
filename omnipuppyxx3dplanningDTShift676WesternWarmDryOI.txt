@@ -1,0 +1,711 @@
+2Tier Western Warm-Dry -> East Moist-Temperate Trend
+Representative Trend
+
+1: Foreign Empirical Structure Dogma SimilarIncome -                                      High Focus/Severe
+2: Foreign Empirical Structure Dogma SimilarMonetary Holdings -                           High Focus/Severe
+3: Foreign Empirical Structure Dogma SimilarIntellect -                                   High Focus/Severe
+4: Foreign Empirical Structure Dogma SimilarKnowledge -                                   High Focus/Severe
+5: Foreign Empirical Structure Dogma SimilarSpiritual Knowledge -                         High Focus/Severe
+6: Foreign Empirical Structure Dogma SimilarTechnical Skill -                             High Focus/Severe
+7: Foreign Empirical Structure Dogma SimilarCultural Training -                           High Focus/Severe
+8: Foreign Empirical Structure Dogma SimilarEntertainment Skill -                         High Focus/Severe
+9: Foreign Empirical Structure Dogma SimilarMarketting Knowledge -                        High Focus/Severe
+10: Foreign Empirical Structure Dogma SimilarArtistic Creativity -                        High Focus/Severe
+11: Foreign Empirical Structure Dogma SimilarCharisma -                                   High Focus/Severe
+12: Foreign Empirical Structure Dogma SimilarCreative Solutions -                         High Focus/Severe
+13: Foreign Empirical Structure Dogma SimilarAllustria -                                  High Focus/Severe
+14: Foreign Empirical Structure Dogma SimilarConversational Dynamics -                    High Focus/Severe
+15: Foreign Empirical Structure Dogma SimilarDrug Dependancy -                            High Focus/Severe
+16: Foreign Empirical Structure Dogma SimilarBias -                                       High Focus/Severe
+17: Foreign Empirical Structure Dogma SimilarPattern Habits -                             High Focus/Severe
+18: Foreign Empirical Structure Dogma SimilarStrength -                                   High Focus/Severe
+19: Foreign Empirical Structure Dogma SimilarAthletic Habits -                            High Focus/Severe
+20: Foreign Empirical Structure Dogma SimilarDietary Patterns -                           High Focus/Severe
+21: Foreign Empirical Structure Dogma SimilarStructured Patriotism -                      High Focus/Severe
+22: Foreign Empirical Structure Dogma SimilarWill Power -                                 High Focus/Severe
+23: Foreign Empirical Structure Dogma SimilarRigidity of Bones -                          High Focus/Severe
+24: Foreign Empirical Structure Dogma SimilarElasticity of Cell Reform -                  High Focus/Severe
+25: Foreign Empirical Structure Dogma SimilarImmunity Resilience -                        High Focus/Severe
+26: Foreign Empirical Structure Dogma SimilarOrganized Membership -                       High Focus/Severe
+27: Foreign Empirical Structure Dogma SimilarEmployment State -                           High Focus/Severe
+28: Foreign Empirical Structure Dogma SimilarEmotional Habitry -                          High Focus/Severe
+29: Foreign Empirical Structure Dogma SimilarLinguistic Skills -                          High Focus/Severe
+30: Foreign Empirical Structure Dogma SimilarPrior Budget Analytics                       High Focus/Severe
+31: Foreign Empirical Structure Dogma SimilarTeamWork Shortcomings -                      High Focus/Severe
+32: Foreign Empirical Structure Dogma SimilarWeaknesses (Cellular) -                           High Focus/Severe
+33: Foreign Empirical Structure Dogma SimilarWeaknesses (Toxicity) -                           High Focus/Severe
+34: Foreign Empirical Structure Dogma SimilarWeaknesses (Environmental) -                           High Focus/Severe
+35: Foreign Empirical Structure Dogma SimilarWeaknesses (Conversational) -                           High Focus/Severe
+36: Foreign Empirical Structure Dogma SimilarWeaknesses (Sexual) -                           High Focus/Severe
+37: Foreign Empirical Structure Dogma SimilarWeaknesses (Emotional) -                           High Focus/Severe
+38: Foreign Empirical Structure Dogma SimilarWeaknesses (Logical) -                           High Focus/Severe
+39: Foreign Empirical Structure Dogma SimilarWeaknesses (Economic) -                           High Focus/Severe
+40: Foreign Empirical Structure Dogma SimilarWeaknesses (Neuro-Reactive) -                           High Focus/Severe
+41: Foreign Empirical Structure Dogma SimilarStrength (Cellular) -                           High Focus/Severe
+42: Foreign Empirical Structure Dogma SimilarStrength (Toxicity) -                           High Focus/Severe
+43: Foreign Empirical Structure Dogma SimilarStrength (Environmental) -                           High Focus/Severe
+44: Foreign Empirical Structure Dogma SimilarStrength (Conversational) -                           High Focus/Severe
+45: Foreign Empirical Structure Dogma SimilarStrength (Sexual) -                           High Focus/Severe
+46: Foreign Empirical Structure Dogma SimilarStrength (Emotional) -                           High Focus/Severe
+47: Foreign Empirical Structure Dogma SimilarStrength (Logical) -                           High Focus/Severe
+48: Foreign Empirical Structure Dogma SimilarStrength (Economic) -                           High Focus/Severe
+49: Foreign Empirical Structure Dogma SimilarStrength (Neuro-Reactive) -                           High Focus/Severe
+50: Foreign Empirical Structure Dogma SimilarSocio-Political Trend -                           High Focus/Severe
+51: Foreign Empirical Structure Dogma SimilarEducational Trend -                           High Focus/Severe
+52: Foreign Empirical Structure Dogma SimilarPhysiological Attractions -                           High Focus/Severe
+53: Foreign Empirical Structure Dogma SimilarNeuroChemical Attractions -                           High Focus/Severe
+54: Foreign Empirical Structure Dogma SimilarPhysical Athetic Trends -                            High Focus/Severe
+55: Foreign Empirical Structure Dogma SimilarPhysical Sexual Trends -                           High Focus/Severe
+56: Foreign Empirical Structure Dogma Similar Physical Violence Trends -                           High Focus/Severe
+
+Representative Trend
+
+1: Local Sacred Society Similar Income -                                            Low Influence/Non-Issuative
+2: Local Sacred Society Similar Monetary Holdings -                                              Low Influence/Non-Issuative
+3: Local Sacred Society Similar Intellect -                                        Low Influence/Non-Issuative
+4: Local Sacred Society Similar Knowledge -                                        Low Influence/Non-Issuative
+5: Local Sacred Society Similar Spiritual Knowledge -                                       Low Influence/Non-Issuative
+6: Local Sacred Society Similar Technical Skill -                                        Low Influence/Non-Issuative
+7: Local Sacred Society Similar Cultural Training -                                       Low Influence/Non-Issuative
+8: Local Sacred Society Similar Entertainment Skill -                                       Low Influence/Non-Issuative
+9: Local Sacred Society Similar Marketting Knowledge -                                       Low Influence/Non-Issuative
+10: Local Sacred Society Similar Artistic Creativity -                                        Low Influence/Non-Issuative
+11: Local Sacred Society Similar Charisma -                                                 Low Influence/Non-Issuative                            
+12: Local Sacred Society Similar Creative Solutions -                                       Low Influence/Non-Issuative
+13: Local Sacred Society Similar Allustria -                                        Low Influence/Non-Issuative     
+14: Local Sacred Society Similar Conversational Dynamics -                                       Low Influence/Non-Issuative
+15: Local Sacred Society Similar Drug Dependancy -                                        Low Influence/Non-Issuative
+16: Local Sacred Society Similar Bias -                                       Low Influence/Non-Issuative
+17: Local Sacred Society Similar Pattern Habits -                                        Low Influence/Non-Issuative
+18: Local Sacred Society Similar Strength -                                       Low Influence/Non-Issuative
+19: Local Sacred Society Similar Athletic Habits -                                       Low Influence/Non-Issuative
+20: Local Sacred Society Similar Dietary Patterns -                                        Low Influence/Non-Issuative
+21: Local Sacred Society Similar Structured Patriotism -                                        Low Influence/Non-Issuative
+22: Local Sacred Society Similar Will Power -                                        Low Influence/Non-Issuative
+23: Local Sacred Society Similar Rigidity of Bones -                                       Low Influence/Non-Issuative
+24: Local Sacred Society Similar Elasticity of Cell Reform -                                        Low Influence/Non-Issuative
+25: Local Sacred Society Similar Immunity Resilience -                                       Low Influence/Non-Issuative
+26: Local Sacred Society Similar Organized Membership -                                        Low Influence/Non-Issuative
+27: Local Sacred Society Similar Employment State -                                       Low Influence/Non-Issuative
+28: Local Sacred Society Similar Emotional Habitry -                                       Low Influence/Non-Issuative
+29: Local Sacred Society Similar Linguistic Skills -                                        Low Influence/Non-Issuative
+30: Local Sacred Society Similar Prior Budget Analytics -                                        Low Influence/Non-Issuative
+31: Local Sacred Society Similar TeamWork Shortcomings -                                        Low Influence/Non-Issuative
+32: Local Sacred Society Similar Weaknesses (Cellular) -                                       Low Influence/Non-Issuative
+33: Local Sacred Society Similar Weaknesses (Toxicity) -                                       Low Influence/Non-Issuative
+34: Local Sacred Society Similar Weaknesses (Environmental) -                                       Low Influence/Non-Issuative
+35: Local Sacred Society Similar Weaknesses (Conversational) -                                       Low Influence/Non-Issuative
+36: Local Sacred Society Similar Weaknesses (Sexual) -                                       Low Influence/Non-Issuative
+37: Local Sacred Society Similar Weaknesses (Emotional) -                                       Low Influence/Non-Issuative
+38: Local Sacred Society Similar Weaknesses (Logical) -                                       Low Influence/Non-Issuative
+39: Local Sacred Society Similar Weaknesses (Economic) -                                       Low Influence/Non-Issuative
+40: Local Sacred Society Similar Weaknesses (Neuro-Reactive) -                                       Low Influence/Non-Issuative
+41: Local Sacred Society Similar Strength (Cellular) -                                       Low Influence/Non-Issuative
+42: Local Sacred Society Similar Strength (Toxicity) -                                       Low Influence/Non-Issuative
+43: Local Sacred Society Similar Strength (Environmental) -                                       Low Influence/Non-Issuative
+44: Local Sacred Society Similar Strength (Conversational) -                                       Low Influence/Non-Issuative
+45: Local Sacred Society Similar Strength (Sexual) -                                       Low Influence/Non-Issuative
+46: Local Sacred Society Similar Strength (Emotional) -                                       Low Influence/Non-Issuative
+47: Local Sacred Society Similar Strength (Logical) -                                       Low Influence/Non-Issuative
+48: Local Sacred Society Similar Strength (Economic) -                                       Low Influence/Non-Issuative
+49: Local Sacred Society Similar Strength (Neuro-Reactive) -                                       Low Influence/Non-Issuative
+50: Local Sacred Society Similar Socio-Political Trend -                                       Low Influence/Non-Issuative
+51: Local Sacred Society Similar Educational Trend -                                       Low Influence/Non-Issuative
+52: Local Sacred Society Similar Physiological Attractions -                                       Low Influence/Non-Issuative
+53: Local Sacred Society Similar NeuroChemical Attractions -                                       Low Influence/Non-Issuative
+54: Local Sacred Society Similar Physical Athetic Trends -                                        Low Influence/Non-Issuative
+55: Local Sacred Society Similar Physical Sexual Trends -                                       Low Influence/Non-Issuative
+56: Local Sacred Society Similar Physical Violence Trends -                                       Low Influence/Non-Issuative
+
+Representative Trend
+
+1: Foreign Empirical Structure Dogma SimilarIncome -                                        Low Influence/Non-Issuative
+2: Foreign Empirical Structure Dogma SimilarMonetary Holdings -                                        Low Influence/Non-Issuative
+3: Foreign Empirical Structure Dogma SimilarIntellect -                                        Low Influence/Non-Issuative
+4: Foreign Empirical Structure Dogma SimilarKnowledge -                                        Low Influence/Non-Issuative
+5: Foreign Empirical Structure Dogma SimilarSpiritual Knowledge -                                       Low Influence/Non-Issuative
+6: Foreign Empirical Structure Dogma SimilarTechnical Skill -                                        Low Influence/Non-Issuative
+7: Foreign Empirical Structure Dogma SimilarCultural Training -                                       Low Influence/Non-Issuative
+8: Foreign Empirical Structure Dogma SimilarEntertainment Skill -                                       Low Influence/Non-Issuative
+9: Foreign Empirical Structure Dogma SimilarMarketting Knowledge -                                       Low Influence/Non-Issuative
+10: Foreign Empirical Structure Dogma SimilarArtistic Creativity -                                        Low Influence/Non-Issuative
+11: Foreign Empirical Structure Dogma SimilarCharisma -                                        Low Influence/Non-Issuative
+12: Foreign Empirical Structure Dogma SimilarCreative Solutions -                                       Low Influence/Non-Issuative
+13: Foreign Empirical Structure Dogma SimilarAllustria -                                        Low Influence/Non-Issuative
+14: Foreign Empirical Structure Dogma SimilarConversational Dynamics -                                       Low Influence/Non-Issuative
+15: Foreign Empirical Structure Dogma SimilarDrug Dependancy -                                        Low Influence/Non-Issuative
+16: Foreign Empirical Structure Dogma SimilarBias -                                       Low Influence/Non-Issuative
+17: Foreign Empirical Structure Dogma SimilarPattern Habits -                                        Low Influence/Non-Issuative
+18: Foreign Empirical Structure Dogma SimilarStrength -                                       Low Influence/Non-Issuative
+19: Foreign Empirical Structure Dogma SimilarAthletic Habits -                                       Low Influence/Non-Issuative
+20: Foreign Empirical Structure Dogma SimilarDietary Patterns -                                        Low Influence/Non-Issuative
+21: Foreign Empirical Structure Dogma SimilarStructured Patriotism -                                        Low Influence/Non-Issuative
+22: Foreign Empirical Structure Dogma SimilarWill Power -                                        Low Influence/Non-Issuative
+23: Foreign Empirical Structure Dogma SimilarRigidity of Bones -                                       Low Influence/Non-Issuative
+24: Foreign Empirical Structure Dogma SimilarElasticity of Cell Reform -                                        Low Influence/Non-Issuative
+25: Foreign Empirical Structure Dogma SimilarImmunity Resilience -                                       Low Influence/Non-Issuative
+26: Foreign Empirical Structure Dogma SimilarOrganized Membership -                                        Low Influence/Non-Issuative
+27: Foreign Empirical Structure Dogma SimilarEmployment State -                                       Low Influence/Non-Issuative
+28: Foreign Empirical Structure Dogma SimilarEmotional Habitry -                                       Low Influence/Non-Issuative
+29: Foreign Empirical Structure Dogma SimilarLinguistic Skills -                                        Low Influence/Non-Issuative
+30: Foreign Empirical Structure Dogma SimilarPrior Budget Analytics -                                        Low Influence/Non-Issuative
+31: Foreign Empirical Structure Dogma SimilarTeamWork Shortcomings -                                        Low Influence/Non-Issuative
+32: Foreign Empirical Structure Dogma SimilarWeaknesses (Cellular) -                                        Low Influence/Non-Issuative
+33: Foreign Empirical Structure Dogma SimilarWeaknesses (Toxicity) -                                       Low Influence/Non-Issuative
+34: Foreign Empirical Structure Dogma SimilarWeaknesses (Environmental) -                                       Low Influence/Non-Issuative
+35: Foreign Empirical Structure Dogma SimilarWeaknesses (Conversational) -                                       Low Influence/Non-Issuative
+36: Foreign Empirical Structure Dogma SimilarWeaknesses (Sexual) -                                       Low Influence/Non-Issuative
+37: Foreign Empirical Structure Dogma SimilarWeaknesses (Emotional) -                                       Low Influence/Non-Issuative
+38: Foreign Empirical Structure Dogma SimilarWeaknesses (Logical) -                                       Low Influence/Non-Issuative
+39: Foreign Empirical Structure Dogma SimilarWeaknesses (Economic) -                                       Low Influence/Non-Issuative
+40: Foreign Empirical Structure Dogma SimilarWeaknesses (Neuro-Reactive) -                                       Low Influence/Non-Issuative
+41: Foreign Empirical Structure Dogma SimilarStrength (Cellular) -                                       Low Influence/Non-Issuative
+42: Foreign Empirical Structure Dogma SimilarStrength (Toxicity) -                                       Low Influence/Non-Issuative
+43: Foreign Empirical Structure Dogma SimilarStrength (Environmental) -                                       Low Influence/Non-Issuative
+44: Foreign Empirical Structure Dogma SimilarStrength (Conversational) -                                       Low Influence/Non-Issuative
+45: Foreign Empirical Structure Dogma SimilarStrength (Sexual) -                                       Low Influence/Non-Issuative
+46: Foreign Empirical Structure Dogma SimilarStrength (Emotional) -                                       Low Influence/Non-Issuative
+47: Foreign Empirical Structure Dogma SimilarStrength (Logical) -                                        Low Influence/Non-Issuative
+48: Foreign Empirical Structure Dogma SimilarStrength (Economic) -                                       Low Influence/Non-Issuative
+49: Foreign Empirical Structure Dogma SimilarStrength (Neuro-Reactive) -                                       Low Influence/Non-Issuative
+50: Foreign Empirical Structure Dogma SimilarSocio-Political Trend -                                       Low Influence/Non-Issuative
+51: Foreign Empirical Structure Dogma SimilarEducational Trend -                                       Low Influence/Non-Issuative
+52: Foreign Empirical Structure Dogma SimilarPhysiological Attractions -                                       Low Influence/Non-Issuative
+53: Foreign Empirical Structure Dogma SimilarNeuroChemical Attractions -                                       Low Influence/Non-Issuative
+54: Foreign Empirical Structure Dogma SimilarPhysical Athetic Trends -                                        Low Influence/Non-Issuative
+55: Foreign Empirical Structure Dogma SimilarPhysical Sexual Trends -                                       Low Influence/Non-Issuative
+56: Foreign Empirical Structure Dogma Similar Physical Violence Trends -                                       Low Influence/Non-Issuative
+
+Representative Trend
+
+1: Local Sacred Society Similar Income -                                     High Focus/Severe
+2: Local Sacred Society Similar Monetary Holdings -                     High Focus/Severe                    High Focus/Severe
+3: Local Sacred Society Similar Intellect -                     High Focus/Severe
+4: Local Sacred Society Similar Knowledge -                     High Focus/Severe
+5: Local Sacred Society Similar Spiritual Knowledge -                    High Focus/Severe
+6: Local Sacred Society Similar Technical Skill -                     High Focus/Severe
+7: Local Sacred Society Similar Cultural Training -                    High Focus/Severe
+8: Local Sacred Society Similar Entertainment Skill -                    High Focus/Severe
+9: Local Sacred Society Similar Marketting Knowledge -                    High Focus/Severe
+10: Local Sacred Society Similar Artistic Creativity -                     High Focus/Severe
+11: Local Sacred Society Similar Charisma -                     High Focus/Severe
+12: Local Sacred Society Similar Creative Solutions -                    High Focus/Severe
+13: Local Sacred Society Similar Allustria -                     High Focus/Severe
+14: Local Sacred Society Similar Conversational Dynamics -                    High Focus/Severe
+15: Local Sacred Society Similar Drug Dependancy -                     High Focus/Severe
+16: Local Sacred Society Similar Bias -                    High Focus/Severe
+17: Local Sacred Society Similar Pattern Habits -                     High Focus/Severe
+18: Local Sacred Society Similar Strength -                    High Focus/Severe
+19: Local Sacred Society Similar Athletic Habits -                    High Focus/Severe
+20: Local Sacred Society Similar Dietary Patterns -                     High Focus/Severe
+21: Local Sacred Society Similar Structured Patriotism -                     High Focus/Severe
+22: Local Sacred Society Similar Will Power -                     High Focus/Severe
+23: Local Sacred Society Similar Rigidity of Bones -                    High Focus/Severe
+24: Local Sacred Society Similar Elasticity of Cell Reform -                     High Focus/Severe
+25: Local Sacred Society Similar Immunity Resilience -                    High Focus/Severe
+26: Local Sacred Society Similar Organized Membership -                     High Focus/Severe
+27: Local Sacred Society Similar Employment State -                    High Focus/Severe
+28: Local Sacred Society Similar Emotional Habitry -                    High Focus/Severe
+29: Local Sacred Society Similar Linguistic Skills -                     High Focus/Severe
+30: Local Sacred Society Similar Prior Budget Analytics -                     High Focus/Severe
+31: Local Sacred Society Similar TeamWork Shortcomings -                     High Focus/Severe
+32: Local Sacred Society Similar Weaknesses (Cellular) -                    High Focus/Severe
+33: Local Sacred Society Similar Weaknesses (Toxicity) -                    High Focus/Severe
+34: Local Sacred Society Similar Weaknesses (Environmental) -                    High Focus/Severe
+35: Local Sacred Society Similar Weaknesses (Conversational) -                    High Focus/Severe
+36: Local Sacred Society Similar Weaknesses (Sexual) -                    High Focus/Severe
+37: Local Sacred Society Similar Weaknesses (Emotional) -                    High Focus/Severe
+38: Local Sacred Society Similar Weaknesses (Logical) -                    High Focus/Severe
+39: Local Sacred Society Similar Weaknesses (Economic) -                    High Focus/Severe
+40: Local Sacred Society Similar Weaknesses (Neuro-Reactive) -                    High Focus/Severe
+41: Local Sacred Society Similar Strength (Cellular) -                    High Focus/Severe
+42: Local Sacred Society Similar Strength (Toxicity) -                    High Focus/Severe
+43: Local Sacred Society Similar Strength (Environmental) -                    High Focus/Severe
+44: Local Sacred Society Similar Strength (Conversational) -                    High Focus/Severe
+45: Local Sacred Society Similar Strength (Sexual) -                    High Focus/Severe
+46: Local Sacred Society Similar Strength (Emotional) -                    High Focus/Severe
+47: Local Sacred Society Similar Strength (Logical) -                    High Focus/Severe
+48: Local Sacred Society Similar Strength (Economic) -                    High Focus/Severe
+49: Local Sacred Society Similar Strength (Neuro-Reactive) -                    High Focus/Severe
+50: Local Sacred Society Similar Socio-Political Trend -                    High Focus/Severe
+51: Local Sacred Society Similar Educational Trend -                    High Focus/Severe
+52: Local Sacred Society Similar Physiological Attractions -                    High Focus/Severe
+53: Local Sacred Society Similar NeuroChemical Attractions -                    High Focus/Severe
+54: Local Sacred Society Similar Physical Athetic Trends -                     High Focus/Severe
+55: Local Sacred Society Similar Physical Sexual Trends -                    High Focus/Severe
+56: Local Sacred Society Similar Physical Violence Trends -                    High Focus/Severe
+
+
+2Tier Western Warm-Dry Trend -> North Western Temperate Trend
+Representative Trend
+
+1: Foreign Empirical Structure Dogma SimilarIncome -                                      High Focus/Severe
+2: Foreign Empirical Structure Dogma SimilarMonetary Holdings -                           High Focus/Severe
+3: Foreign Empirical Structure Dogma SimilarIntellect -                                   High Focus/Severe
+4: Foreign Empirical Structure Dogma SimilarKnowledge -                                   High Focus/Severe
+5: Foreign Empirical Structure Dogma SimilarSpiritual Knowledge -                         High Focus/Severe
+6: Foreign Empirical Structure Dogma SimilarTechnical Skill -                             High Focus/Severe
+7: Foreign Empirical Structure Dogma SimilarCultural Training -                           High Focus/Severe
+8: Foreign Empirical Structure Dogma SimilarEntertainment Skill -                         High Focus/Severe
+9: Foreign Empirical Structure Dogma SimilarMarketting Knowledge -                        High Focus/Severe
+10: Foreign Empirical Structure Dogma SimilarArtistic Creativity -                        High Focus/Severe
+11: Foreign Empirical Structure Dogma SimilarCharisma -                                   High Focus/Severe
+12: Foreign Empirical Structure Dogma SimilarCreative Solutions -                         High Focus/Severe
+13: Foreign Empirical Structure Dogma SimilarAllustria -                                  High Focus/Severe
+14: Foreign Empirical Structure Dogma SimilarConversational Dynamics -                    High Focus/Severe
+15: Foreign Empirical Structure Dogma SimilarDrug Dependancy -                            High Focus/Severe
+16: Foreign Empirical Structure Dogma SimilarBias -                                       High Focus/Severe
+17: Foreign Empirical Structure Dogma SimilarPattern Habits -                             High Focus/Severe
+18: Foreign Empirical Structure Dogma SimilarStrength -                                   High Focus/Severe
+19: Foreign Empirical Structure Dogma SimilarAthletic Habits -                            High Focus/Severe
+20: Foreign Empirical Structure Dogma SimilarDietary Patterns -                           High Focus/Severe
+21: Foreign Empirical Structure Dogma SimilarStructured Patriotism -                      High Focus/Severe
+22: Foreign Empirical Structure Dogma SimilarWill Power -                                 High Focus/Severe
+23: Foreign Empirical Structure Dogma SimilarRigidity of Bones -                          High Focus/Severe
+24: Foreign Empirical Structure Dogma SimilarElasticity of Cell Reform -                  High Focus/Severe
+25: Foreign Empirical Structure Dogma SimilarImmunity Resilience -                        High Focus/Severe
+26: Foreign Empirical Structure Dogma SimilarOrganized Membership -                       High Focus/Severe
+27: Foreign Empirical Structure Dogma SimilarEmployment State -                           High Focus/Severe
+28: Foreign Empirical Structure Dogma SimilarEmotional Habitry -                          High Focus/Severe
+29: Foreign Empirical Structure Dogma SimilarLinguistic Skills -                          High Focus/Severe
+30: Foreign Empirical Structure Dogma SimilarPrior Budget Analytics                       High Focus/Severe
+31: Foreign Empirical Structure Dogma SimilarTeamWork Shortcomings -                      High Focus/Severe
+32: Foreign Empirical Structure Dogma SimilarWeaknesses (Cellular) -                           High Focus/Severe
+33: Foreign Empirical Structure Dogma SimilarWeaknesses (Toxicity) -                           High Focus/Severe
+34: Foreign Empirical Structure Dogma SimilarWeaknesses (Environmental) -                           High Focus/Severe
+35: Foreign Empirical Structure Dogma SimilarWeaknesses (Conversational) -                           High Focus/Severe
+36: Foreign Empirical Structure Dogma SimilarWeaknesses (Sexual) -                           High Focus/Severe
+37: Foreign Empirical Structure Dogma SimilarWeaknesses (Emotional) -                           High Focus/Severe
+38: Foreign Empirical Structure Dogma SimilarWeaknesses (Logical) -                           High Focus/Severe
+39: Foreign Empirical Structure Dogma SimilarWeaknesses (Economic) -                           High Focus/Severe
+40: Foreign Empirical Structure Dogma SimilarWeaknesses (Neuro-Reactive) -                           High Focus/Severe
+41: Foreign Empirical Structure Dogma SimilarStrength (Cellular) -                           High Focus/Severe
+42: Foreign Empirical Structure Dogma SimilarStrength (Toxicity) -                           High Focus/Severe
+43: Foreign Empirical Structure Dogma SimilarStrength (Environmental) -                           High Focus/Severe
+44: Foreign Empirical Structure Dogma SimilarStrength (Conversational) -                           High Focus/Severe
+45: Foreign Empirical Structure Dogma SimilarStrength (Sexual) -                           High Focus/Severe
+46: Foreign Empirical Structure Dogma SimilarStrength (Emotional) -                           High Focus/Severe
+47: Foreign Empirical Structure Dogma SimilarStrength (Logical) -                           High Focus/Severe
+48: Foreign Empirical Structure Dogma SimilarStrength (Economic) -                           High Focus/Severe
+49: Foreign Empirical Structure Dogma SimilarStrength (Neuro-Reactive) -                           High Focus/Severe
+50: Foreign Empirical Structure Dogma SimilarSocio-Political Trend -                           High Focus/Severe
+51: Foreign Empirical Structure Dogma SimilarEducational Trend -                           High Focus/Severe
+52: Foreign Empirical Structure Dogma SimilarPhysiological Attractions -                           High Focus/Severe
+53: Foreign Empirical Structure Dogma SimilarNeuroChemical Attractions -                           High Focus/Severe
+54: Foreign Empirical Structure Dogma SimilarPhysical Athetic Trends -                            High Focus/Severe
+55: Foreign Empirical Structure Dogma SimilarPhysical Sexual Trends -                           High Focus/Severe
+56: Foreign Empirical Structure Dogma Similar Physical Violence Trends -                           High Focus/Severe
+
+Representative Trend
+
+1: Local Sacred Society Similar Income -                                            Low Influence/Non-Issuative
+2: Local Sacred Society Similar Monetary Holdings -                                              Low Influence/Non-Issuative
+3: Local Sacred Society Similar Intellect -                                        Low Influence/Non-Issuative
+4: Local Sacred Society Similar Knowledge -                                        Low Influence/Non-Issuative
+5: Local Sacred Society Similar Spiritual Knowledge -                                       Low Influence/Non-Issuative
+6: Local Sacred Society Similar Technical Skill -                                        Low Influence/Non-Issuative
+7: Local Sacred Society Similar Cultural Training -                                       Low Influence/Non-Issuative
+8: Local Sacred Society Similar Entertainment Skill -                                       Low Influence/Non-Issuative
+9: Local Sacred Society Similar Marketting Knowledge -                                       Low Influence/Non-Issuative
+10: Local Sacred Society Similar Artistic Creativity -                                        Low Influence/Non-Issuative
+11: Local Sacred Society Similar Charisma -                                                 Low Influence/Non-Issuative                            
+12: Local Sacred Society Similar Creative Solutions -                                       Low Influence/Non-Issuative
+13: Local Sacred Society Similar Allustria -                                        Low Influence/Non-Issuative     
+14: Local Sacred Society Similar Conversational Dynamics -                                       Low Influence/Non-Issuative
+15: Local Sacred Society Similar Drug Dependancy -                                        Low Influence/Non-Issuative
+16: Local Sacred Society Similar Bias -                                       Low Influence/Non-Issuative
+17: Local Sacred Society Similar Pattern Habits -                                        Low Influence/Non-Issuative
+18: Local Sacred Society Similar Strength -                                       Low Influence/Non-Issuative
+19: Local Sacred Society Similar Athletic Habits -                                       Low Influence/Non-Issuative
+20: Local Sacred Society Similar Dietary Patterns -                                        Low Influence/Non-Issuative
+21: Local Sacred Society Similar Structured Patriotism -                                        Low Influence/Non-Issuative
+22: Local Sacred Society Similar Will Power -                                        Low Influence/Non-Issuative
+23: Local Sacred Society Similar Rigidity of Bones -                                       Low Influence/Non-Issuative
+24: Local Sacred Society Similar Elasticity of Cell Reform -                                        Low Influence/Non-Issuative
+25: Local Sacred Society Similar Immunity Resilience -                                       Low Influence/Non-Issuative
+26: Local Sacred Society Similar Organized Membership -                                        Low Influence/Non-Issuative
+27: Local Sacred Society Similar Employment State -                                       Low Influence/Non-Issuative
+28: Local Sacred Society Similar Emotional Habitry -                                       Low Influence/Non-Issuative
+29: Local Sacred Society Similar Linguistic Skills -                                        Low Influence/Non-Issuative
+30: Local Sacred Society Similar Prior Budget Analytics -                                        Low Influence/Non-Issuative
+31: Local Sacred Society Similar TeamWork Shortcomings -                                        Low Influence/Non-Issuative
+32: Local Sacred Society Similar Weaknesses (Cellular) -                                       Low Influence/Non-Issuative
+33: Local Sacred Society Similar Weaknesses (Toxicity) -                                       Low Influence/Non-Issuative
+34: Local Sacred Society Similar Weaknesses (Environmental) -                                       Low Influence/Non-Issuative
+35: Local Sacred Society Similar Weaknesses (Conversational) -                                       Low Influence/Non-Issuative
+36: Local Sacred Society Similar Weaknesses (Sexual) -                                       Low Influence/Non-Issuative
+37: Local Sacred Society Similar Weaknesses (Emotional) -                                       Low Influence/Non-Issuative
+38: Local Sacred Society Similar Weaknesses (Logical) -                                       Low Influence/Non-Issuative
+39: Local Sacred Society Similar Weaknesses (Economic) -                                       Low Influence/Non-Issuative
+40: Local Sacred Society Similar Weaknesses (Neuro-Reactive) -                                       Low Influence/Non-Issuative
+41: Local Sacred Society Similar Strength (Cellular) -                                       Low Influence/Non-Issuative
+42: Local Sacred Society Similar Strength (Toxicity) -                                       Low Influence/Non-Issuative
+43: Local Sacred Society Similar Strength (Environmental) -                                       Low Influence/Non-Issuative
+44: Local Sacred Society Similar Strength (Conversational) -                                       Low Influence/Non-Issuative
+45: Local Sacred Society Similar Strength (Sexual) -                                       Low Influence/Non-Issuative
+46: Local Sacred Society Similar Strength (Emotional) -                                       Low Influence/Non-Issuative
+47: Local Sacred Society Similar Strength (Logical) -                                       Low Influence/Non-Issuative
+48: Local Sacred Society Similar Strength (Economic) -                                       Low Influence/Non-Issuative
+49: Local Sacred Society Similar Strength (Neuro-Reactive) -                                       Low Influence/Non-Issuative
+50: Local Sacred Society Similar Socio-Political Trend -                                       Low Influence/Non-Issuative
+51: Local Sacred Society Similar Educational Trend -                                       Low Influence/Non-Issuative
+52: Local Sacred Society Similar Physiological Attractions -                                       Low Influence/Non-Issuative
+53: Local Sacred Society Similar NeuroChemical Attractions -                                       Low Influence/Non-Issuative
+54: Local Sacred Society Similar Physical Athetic Trends -                                        Low Influence/Non-Issuative
+55: Local Sacred Society Similar Physical Sexual Trends -                                       Low Influence/Non-Issuative
+56: Local Sacred Society Similar Physical Violence Trends -                                       Low Influence/Non-Issuative
+
+Representative Trend
+
+1: Foreign Empirical Structure Dogma SimilarIncome -                                        Low Influence/Non-Issuative
+2: Foreign Empirical Structure Dogma SimilarMonetary Holdings -                                        Low Influence/Non-Issuative
+3: Foreign Empirical Structure Dogma SimilarIntellect -                                        Low Influence/Non-Issuative
+4: Foreign Empirical Structure Dogma SimilarKnowledge -                                        Low Influence/Non-Issuative
+5: Foreign Empirical Structure Dogma SimilarSpiritual Knowledge -                                       Low Influence/Non-Issuative
+6: Foreign Empirical Structure Dogma SimilarTechnical Skill -                                        Low Influence/Non-Issuative
+7: Foreign Empirical Structure Dogma SimilarCultural Training -                                       Low Influence/Non-Issuative
+8: Foreign Empirical Structure Dogma SimilarEntertainment Skill -                                       Low Influence/Non-Issuative
+9: Foreign Empirical Structure Dogma SimilarMarketting Knowledge -                                       Low Influence/Non-Issuative
+10: Foreign Empirical Structure Dogma SimilarArtistic Creativity -                                        Low Influence/Non-Issuative
+11: Foreign Empirical Structure Dogma SimilarCharisma -                                        Low Influence/Non-Issuative
+12: Foreign Empirical Structure Dogma SimilarCreative Solutions -                                       Low Influence/Non-Issuative
+13: Foreign Empirical Structure Dogma SimilarAllustria -                                        Low Influence/Non-Issuative
+14: Foreign Empirical Structure Dogma SimilarConversational Dynamics -                                       Low Influence/Non-Issuative
+15: Foreign Empirical Structure Dogma SimilarDrug Dependancy -                                        Low Influence/Non-Issuative
+16: Foreign Empirical Structure Dogma SimilarBias -                                       Low Influence/Non-Issuative
+17: Foreign Empirical Structure Dogma SimilarPattern Habits -                                        Low Influence/Non-Issuative
+18: Foreign Empirical Structure Dogma SimilarStrength -                                       Low Influence/Non-Issuative
+19: Foreign Empirical Structure Dogma SimilarAthletic Habits -                                       Low Influence/Non-Issuative
+20: Foreign Empirical Structure Dogma SimilarDietary Patterns -                                        Low Influence/Non-Issuative
+21: Foreign Empirical Structure Dogma SimilarStructured Patriotism -                                        Low Influence/Non-Issuative
+22: Foreign Empirical Structure Dogma SimilarWill Power -                                        Low Influence/Non-Issuative
+23: Foreign Empirical Structure Dogma SimilarRigidity of Bones -                                       Low Influence/Non-Issuative
+24: Foreign Empirical Structure Dogma SimilarElasticity of Cell Reform -                                        Low Influence/Non-Issuative
+25: Foreign Empirical Structure Dogma SimilarImmunity Resilience -                                       Low Influence/Non-Issuative
+26: Foreign Empirical Structure Dogma SimilarOrganized Membership -                                        Low Influence/Non-Issuative
+27: Foreign Empirical Structure Dogma SimilarEmployment State -                                       Low Influence/Non-Issuative
+28: Foreign Empirical Structure Dogma SimilarEmotional Habitry -                                       Low Influence/Non-Issuative
+29: Foreign Empirical Structure Dogma SimilarLinguistic Skills -                                        Low Influence/Non-Issuative
+30: Foreign Empirical Structure Dogma SimilarPrior Budget Analytics -                                        Low Influence/Non-Issuative
+31: Foreign Empirical Structure Dogma SimilarTeamWork Shortcomings -                                        Low Influence/Non-Issuative
+32: Foreign Empirical Structure Dogma SimilarWeaknesses (Cellular) -                                        Low Influence/Non-Issuative
+33: Foreign Empirical Structure Dogma SimilarWeaknesses (Toxicity) -                                       Low Influence/Non-Issuative
+34: Foreign Empirical Structure Dogma SimilarWeaknesses (Environmental) -                                       Low Influence/Non-Issuative
+35: Foreign Empirical Structure Dogma SimilarWeaknesses (Conversational) -                                       Low Influence/Non-Issuative
+36: Foreign Empirical Structure Dogma SimilarWeaknesses (Sexual) -                                       Low Influence/Non-Issuative
+37: Foreign Empirical Structure Dogma SimilarWeaknesses (Emotional) -                                       Low Influence/Non-Issuative
+38: Foreign Empirical Structure Dogma SimilarWeaknesses (Logical) -                                       Low Influence/Non-Issuative
+39: Foreign Empirical Structure Dogma SimilarWeaknesses (Economic) -                                       Low Influence/Non-Issuative
+40: Foreign Empirical Structure Dogma SimilarWeaknesses (Neuro-Reactive) -                                       Low Influence/Non-Issuative
+41: Foreign Empirical Structure Dogma SimilarStrength (Cellular) -                                       Low Influence/Non-Issuative
+42: Foreign Empirical Structure Dogma SimilarStrength (Toxicity) -                                       Low Influence/Non-Issuative
+43: Foreign Empirical Structure Dogma SimilarStrength (Environmental) -                                       Low Influence/Non-Issuative
+44: Foreign Empirical Structure Dogma SimilarStrength (Conversational) -                                       Low Influence/Non-Issuative
+45: Foreign Empirical Structure Dogma SimilarStrength (Sexual) -                                       Low Influence/Non-Issuative
+46: Foreign Empirical Structure Dogma SimilarStrength (Emotional) -                                       Low Influence/Non-Issuative
+47: Foreign Empirical Structure Dogma SimilarStrength (Logical) -                                        Low Influence/Non-Issuative
+48: Foreign Empirical Structure Dogma SimilarStrength (Economic) -                                       Low Influence/Non-Issuative
+49: Foreign Empirical Structure Dogma SimilarStrength (Neuro-Reactive) -                                       Low Influence/Non-Issuative
+50: Foreign Empirical Structure Dogma SimilarSocio-Political Trend -                                       Low Influence/Non-Issuative
+51: Foreign Empirical Structure Dogma SimilarEducational Trend -                                       Low Influence/Non-Issuative
+52: Foreign Empirical Structure Dogma SimilarPhysiological Attractions -                                       Low Influence/Non-Issuative
+53: Foreign Empirical Structure Dogma SimilarNeuroChemical Attractions -                                       Low Influence/Non-Issuative
+54: Foreign Empirical Structure Dogma SimilarPhysical Athetic Trends -                                        Low Influence/Non-Issuative
+55: Foreign Empirical Structure Dogma SimilarPhysical Sexual Trends -                                       Low Influence/Non-Issuative
+56: Foreign Empirical Structure Dogma Similar Physical Violence Trends -                                       Low Influence/Non-Issuative
+
+Representative Trend
+
+1: Local Sacred Society Similar Income -                                     High Focus/Severe
+2: Local Sacred Society Similar Monetary Holdings -                     High Focus/Severe                    High Focus/Severe
+3: Local Sacred Society Similar Intellect -                     High Focus/Severe
+4: Local Sacred Society Similar Knowledge -                     High Focus/Severe
+5: Local Sacred Society Similar Spiritual Knowledge -                    High Focus/Severe
+6: Local Sacred Society Similar Technical Skill -                     High Focus/Severe
+7: Local Sacred Society Similar Cultural Training -                    High Focus/Severe
+8: Local Sacred Society Similar Entertainment Skill -                    High Focus/Severe
+9: Local Sacred Society Similar Marketting Knowledge -                    High Focus/Severe
+10: Local Sacred Society Similar Artistic Creativity -                     High Focus/Severe
+11: Local Sacred Society Similar Charisma -                     High Focus/Severe
+12: Local Sacred Society Similar Creative Solutions -                    High Focus/Severe
+13: Local Sacred Society Similar Allustria -                     High Focus/Severe
+14: Local Sacred Society Similar Conversational Dynamics -                    High Focus/Severe
+15: Local Sacred Society Similar Drug Dependancy -                     High Focus/Severe
+16: Local Sacred Society Similar Bias -                    High Focus/Severe
+17: Local Sacred Society Similar Pattern Habits -                     High Focus/Severe
+18: Local Sacred Society Similar Strength -                    High Focus/Severe
+19: Local Sacred Society Similar Athletic Habits -                    High Focus/Severe
+20: Local Sacred Society Similar Dietary Patterns -                     High Focus/Severe
+21: Local Sacred Society Similar Structured Patriotism -                     High Focus/Severe
+22: Local Sacred Society Similar Will Power -                     High Focus/Severe
+23: Local Sacred Society Similar Rigidity of Bones -                    High Focus/Severe
+24: Local Sacred Society Similar Elasticity of Cell Reform -                     High Focus/Severe
+25: Local Sacred Society Similar Immunity Resilience -                    High Focus/Severe
+26: Local Sacred Society Similar Organized Membership -                     High Focus/Severe
+27: Local Sacred Society Similar Employment State -                    High Focus/Severe
+28: Local Sacred Society Similar Emotional Habitry -                    High Focus/Severe
+29: Local Sacred Society Similar Linguistic Skills -                     High Focus/Severe
+30: Local Sacred Society Similar Prior Budget Analytics -                     High Focus/Severe
+31: Local Sacred Society Similar TeamWork Shortcomings -                     High Focus/Severe
+32: Local Sacred Society Similar Weaknesses (Cellular) -                    High Focus/Severe
+33: Local Sacred Society Similar Weaknesses (Toxicity) -                    High Focus/Severe
+34: Local Sacred Society Similar Weaknesses (Environmental) -                    High Focus/Severe
+35: Local Sacred Society Similar Weaknesses (Conversational) -                    High Focus/Severe
+36: Local Sacred Society Similar Weaknesses (Sexual) -                    High Focus/Severe
+37: Local Sacred Society Similar Weaknesses (Emotional) -                    High Focus/Severe
+38: Local Sacred Society Similar Weaknesses (Logical) -                    High Focus/Severe
+39: Local Sacred Society Similar Weaknesses (Economic) -                    High Focus/Severe
+40: Local Sacred Society Similar Weaknesses (Neuro-Reactive) -                    High Focus/Severe
+41: Local Sacred Society Similar Strength (Cellular) -                    High Focus/Severe
+42: Local Sacred Society Similar Strength (Toxicity) -                    High Focus/Severe
+43: Local Sacred Society Similar Strength (Environmental) -                    High Focus/Severe
+44: Local Sacred Society Similar Strength (Conversational) -                    High Focus/Severe
+45: Local Sacred Society Similar Strength (Sexual) -                    High Focus/Severe
+46: Local Sacred Society Similar Strength (Emotional) -                    High Focus/Severe
+47: Local Sacred Society Similar Strength (Logical) -                    High Focus/Severe
+48: Local Sacred Society Similar Strength (Economic) -                    High Focus/Severe
+49: Local Sacred Society Similar Strength (Neuro-Reactive) -                    High Focus/Severe
+50: Local Sacred Society Similar Socio-Political Trend -                    High Focus/Severe
+51: Local Sacred Society Similar Educational Trend -                    High Focus/Severe
+52: Local Sacred Society Similar Physiological Attractions -                    High Focus/Severe
+53: Local Sacred Society Similar NeuroChemical Attractions -                    High Focus/Severe
+54: Local Sacred Society Similar Physical Athetic Trends -                     High Focus/Severe
+55: Local Sacred Society Similar Physical Sexual Trends -                    High Focus/Severe
+56: Local Sacred Society Similar Physical Violence Trends -                    High Focus/Severe
+
+2Tier Western Warm-Dry Continental Trend -> Southern Peninsula Temperate Trend
+Representative Trend
+
+1: Foreign Empirical Structure Dogma SimilarIncome -                                      High Focus/Severe
+2: Foreign Empirical Structure Dogma SimilarMonetary Holdings -                           High Focus/Severe
+3: Foreign Empirical Structure Dogma SimilarIntellect -                                   High Focus/Severe
+4: Foreign Empirical Structure Dogma SimilarKnowledge -                                   High Focus/Severe
+5: Foreign Empirical Structure Dogma SimilarSpiritual Knowledge -                         High Focus/Severe
+6: Foreign Empirical Structure Dogma SimilarTechnical Skill -                             High Focus/Severe
+7: Foreign Empirical Structure Dogma SimilarCultural Training -                           High Focus/Severe
+8: Foreign Empirical Structure Dogma SimilarEntertainment Skill -                         High Focus/Severe
+9: Foreign Empirical Structure Dogma SimilarMarketting Knowledge -                        High Focus/Severe
+10: Foreign Empirical Structure Dogma SimilarArtistic Creativity -                        High Focus/Severe
+11: Foreign Empirical Structure Dogma SimilarCharisma -                                   High Focus/Severe
+12: Foreign Empirical Structure Dogma SimilarCreative Solutions -                         High Focus/Severe
+13: Foreign Empirical Structure Dogma SimilarAllustria -                                  High Focus/Severe
+14: Foreign Empirical Structure Dogma SimilarConversational Dynamics -                    High Focus/Severe
+15: Foreign Empirical Structure Dogma SimilarDrug Dependancy -                            High Focus/Severe
+16: Foreign Empirical Structure Dogma SimilarBias -                                       High Focus/Severe
+17: Foreign Empirical Structure Dogma SimilarPattern Habits -                             High Focus/Severe
+18: Foreign Empirical Structure Dogma SimilarStrength -                                   High Focus/Severe
+19: Foreign Empirical Structure Dogma SimilarAthletic Habits -                            High Focus/Severe
+20: Foreign Empirical Structure Dogma SimilarDietary Patterns -                           High Focus/Severe
+21: Foreign Empirical Structure Dogma SimilarStructured Patriotism -                      High Focus/Severe
+22: Foreign Empirical Structure Dogma SimilarWill Power -                                 High Focus/Severe
+23: Foreign Empirical Structure Dogma SimilarRigidity of Bones -                          High Focus/Severe
+24: Foreign Empirical Structure Dogma SimilarElasticity of Cell Reform -                  High Focus/Severe
+25: Foreign Empirical Structure Dogma SimilarImmunity Resilience -                        High Focus/Severe
+26: Foreign Empirical Structure Dogma SimilarOrganized Membership -                       High Focus/Severe
+27: Foreign Empirical Structure Dogma SimilarEmployment State -                           High Focus/Severe
+28: Foreign Empirical Structure Dogma SimilarEmotional Habitry -                          High Focus/Severe
+29: Foreign Empirical Structure Dogma SimilarLinguistic Skills -                          High Focus/Severe
+30: Foreign Empirical Structure Dogma SimilarPrior Budget Analytics                       High Focus/Severe
+31: Foreign Empirical Structure Dogma SimilarTeamWork Shortcomings -                      High Focus/Severe
+32: Foreign Empirical Structure Dogma SimilarWeaknesses (Cellular) -                           High Focus/Severe
+33: Foreign Empirical Structure Dogma SimilarWeaknesses (Toxicity) -                           High Focus/Severe
+34: Foreign Empirical Structure Dogma SimilarWeaknesses (Environmental) -                           High Focus/Severe
+35: Foreign Empirical Structure Dogma SimilarWeaknesses (Conversational) -                           High Focus/Severe
+36: Foreign Empirical Structure Dogma SimilarWeaknesses (Sexual) -                           High Focus/Severe
+37: Foreign Empirical Structure Dogma SimilarWeaknesses (Emotional) -                           High Focus/Severe
+38: Foreign Empirical Structure Dogma SimilarWeaknesses (Logical) -                           High Focus/Severe
+39: Foreign Empirical Structure Dogma SimilarWeaknesses (Economic) -                           High Focus/Severe
+40: Foreign Empirical Structure Dogma SimilarWeaknesses (Neuro-Reactive) -                           High Focus/Severe
+41: Foreign Empirical Structure Dogma SimilarStrength (Cellular) -                           High Focus/Severe
+42: Foreign Empirical Structure Dogma SimilarStrength (Toxicity) -                           High Focus/Severe
+43: Foreign Empirical Structure Dogma SimilarStrength (Environmental) -                           High Focus/Severe
+44: Foreign Empirical Structure Dogma SimilarStrength (Conversational) -                           High Focus/Severe
+45: Foreign Empirical Structure Dogma SimilarStrength (Sexual) -                           High Focus/Severe
+46: Foreign Empirical Structure Dogma SimilarStrength (Emotional) -                           High Focus/Severe
+47: Foreign Empirical Structure Dogma SimilarStrength (Logical) -                           High Focus/Severe
+48: Foreign Empirical Structure Dogma SimilarStrength (Economic) -                           High Focus/Severe
+49: Foreign Empirical Structure Dogma SimilarStrength (Neuro-Reactive) -                           High Focus/Severe
+50: Foreign Empirical Structure Dogma SimilarSocio-Political Trend -                           High Focus/Severe
+51: Foreign Empirical Structure Dogma SimilarEducational Trend -                           High Focus/Severe
+52: Foreign Empirical Structure Dogma SimilarPhysiological Attractions -                           High Focus/Severe
+53: Foreign Empirical Structure Dogma SimilarNeuroChemical Attractions -                           High Focus/Severe
+54: Foreign Empirical Structure Dogma SimilarPhysical Athetic Trends -                            High Focus/Severe
+55: Foreign Empirical Structure Dogma SimilarPhysical Sexual Trends -                           High Focus/Severe
+56: Foreign Empirical Structure Dogma Similar Physical Violence Trends -                           High Focus/Severe
+
+Representative Trend
+
+1: Local Sacred Society Similar Income -                                            Low Influence/Non-Issuative
+2: Local Sacred Society Similar Monetary Holdings -                                              Low Influence/Non-Issuative
+3: Local Sacred Society Similar Intellect -                                        Low Influence/Non-Issuative
+4: Local Sacred Society Similar Knowledge -                                        Low Influence/Non-Issuative
+5: Local Sacred Society Similar Spiritual Knowledge -                                       Low Influence/Non-Issuative
+6: Local Sacred Society Similar Technical Skill -                                        Low Influence/Non-Issuative
+7: Local Sacred Society Similar Cultural Training -                                       Low Influence/Non-Issuative
+8: Local Sacred Society Similar Entertainment Skill -                                       Low Influence/Non-Issuative
+9: Local Sacred Society Similar Marketting Knowledge -                                       Low Influence/Non-Issuative
+10: Local Sacred Society Similar Artistic Creativity -                                        Low Influence/Non-Issuative
+11: Local Sacred Society Similar Charisma -                                                 Low Influence/Non-Issuative                            
+12: Local Sacred Society Similar Creative Solutions -                                       Low Influence/Non-Issuative
+13: Local Sacred Society Similar Allustria -                                        Low Influence/Non-Issuative     
+14: Local Sacred Society Similar Conversational Dynamics -                                       Low Influence/Non-Issuative
+15: Local Sacred Society Similar Drug Dependancy -                                        Low Influence/Non-Issuative
+16: Local Sacred Society Similar Bias -                                       Low Influence/Non-Issuative
+17: Local Sacred Society Similar Pattern Habits -                                        Low Influence/Non-Issuative
+18: Local Sacred Society Similar Strength -                                       Low Influence/Non-Issuative
+19: Local Sacred Society Similar Athletic Habits -                                       Low Influence/Non-Issuative
+20: Local Sacred Society Similar Dietary Patterns -                                        Low Influence/Non-Issuative
+21: Local Sacred Society Similar Structured Patriotism -                                        Low Influence/Non-Issuative
+22: Local Sacred Society Similar Will Power -                                        Low Influence/Non-Issuative
+23: Local Sacred Society Similar Rigidity of Bones -                                       Low Influence/Non-Issuative
+24: Local Sacred Society Similar Elasticity of Cell Reform -                                        Low Influence/Non-Issuative
+25: Local Sacred Society Similar Immunity Resilience -                                       Low Influence/Non-Issuative
+26: Local Sacred Society Similar Organized Membership -                                        Low Influence/Non-Issuative
+27: Local Sacred Society Similar Employment State -                                       Low Influence/Non-Issuative
+28: Local Sacred Society Similar Emotional Habitry -                                       Low Influence/Non-Issuative
+29: Local Sacred Society Similar Linguistic Skills -                                        Low Influence/Non-Issuative
+30: Local Sacred Society Similar Prior Budget Analytics -                                        Low Influence/Non-Issuative
+31: Local Sacred Society Similar TeamWork Shortcomings -                                        Low Influence/Non-Issuative
+32: Local Sacred Society Similar Weaknesses (Cellular) -                                       Low Influence/Non-Issuative
+33: Local Sacred Society Similar Weaknesses (Toxicity) -                                       Low Influence/Non-Issuative
+34: Local Sacred Society Similar Weaknesses (Environmental) -                                       Low Influence/Non-Issuative
+35: Local Sacred Society Similar Weaknesses (Conversational) -                                       Low Influence/Non-Issuative
+36: Local Sacred Society Similar Weaknesses (Sexual) -                                       Low Influence/Non-Issuative
+37: Local Sacred Society Similar Weaknesses (Emotional) -                                       Low Influence/Non-Issuative
+38: Local Sacred Society Similar Weaknesses (Logical) -                                       Low Influence/Non-Issuative
+39: Local Sacred Society Similar Weaknesses (Economic) -                                       Low Influence/Non-Issuative
+40: Local Sacred Society Similar Weaknesses (Neuro-Reactive) -                                       Low Influence/Non-Issuative
+41: Local Sacred Society Similar Strength (Cellular) -                                       Low Influence/Non-Issuative
+42: Local Sacred Society Similar Strength (Toxicity) -                                       Low Influence/Non-Issuative
+43: Local Sacred Society Similar Strength (Environmental) -                                       Low Influence/Non-Issuative
+44: Local Sacred Society Similar Strength (Conversational) -                                       Low Influence/Non-Issuative
+45: Local Sacred Society Similar Strength (Sexual) -                                       Low Influence/Non-Issuative
+46: Local Sacred Society Similar Strength (Emotional) -                                       Low Influence/Non-Issuative
+47: Local Sacred Society Similar Strength (Logical) -                                       Low Influence/Non-Issuative
+48: Local Sacred Society Similar Strength (Economic) -                                       Low Influence/Non-Issuative
+49: Local Sacred Society Similar Strength (Neuro-Reactive) -                                       Low Influence/Non-Issuative
+50: Local Sacred Society Similar Socio-Political Trend -                                       Low Influence/Non-Issuative
+51: Local Sacred Society Similar Educational Trend -                                       Low Influence/Non-Issuative
+52: Local Sacred Society Similar Physiological Attractions -                                       Low Influence/Non-Issuative
+53: Local Sacred Society Similar NeuroChemical Attractions -                                       Low Influence/Non-Issuative
+54: Local Sacred Society Similar Physical Athetic Trends -                                        Low Influence/Non-Issuative
+55: Local Sacred Society Similar Physical Sexual Trends -                                       Low Influence/Non-Issuative
+56: Local Sacred Society Similar Physical Violence Trends -                                       Low Influence/Non-Issuative
+
+Representative Trend
+
+1: Foreign Empirical Structure Dogma SimilarIncome -                                        Low Influence/Non-Issuative
+2: Foreign Empirical Structure Dogma SimilarMonetary Holdings -                                        Low Influence/Non-Issuative
+3: Foreign Empirical Structure Dogma SimilarIntellect -                                        Low Influence/Non-Issuative
+4: Foreign Empirical Structure Dogma SimilarKnowledge -                                        Low Influence/Non-Issuative
+5: Foreign Empirical Structure Dogma SimilarSpiritual Knowledge -                                       Low Influence/Non-Issuative
+6: Foreign Empirical Structure Dogma SimilarTechnical Skill -                                        Low Influence/Non-Issuative
+7: Foreign Empirical Structure Dogma SimilarCultural Training -                                       Low Influence/Non-Issuative
+8: Foreign Empirical Structure Dogma SimilarEntertainment Skill -                                       Low Influence/Non-Issuative
+9: Foreign Empirical Structure Dogma SimilarMarketting Knowledge -                                       Low Influence/Non-Issuative
+10: Foreign Empirical Structure Dogma SimilarArtistic Creativity -                                        Low Influence/Non-Issuative
+11: Foreign Empirical Structure Dogma SimilarCharisma -                                        Low Influence/Non-Issuative
+12: Foreign Empirical Structure Dogma SimilarCreative Solutions -                                       Low Influence/Non-Issuative
+13: Foreign Empirical Structure Dogma SimilarAllustria -                                        Low Influence/Non-Issuative
+14: Foreign Empirical Structure Dogma SimilarConversational Dynamics -                                       Low Influence/Non-Issuative
+15: Foreign Empirical Structure Dogma SimilarDrug Dependancy -                                        Low Influence/Non-Issuative
+16: Foreign Empirical Structure Dogma SimilarBias -                                       Low Influence/Non-Issuative
+17: Foreign Empirical Structure Dogma SimilarPattern Habits -                                        Low Influence/Non-Issuative
+18: Foreign Empirical Structure Dogma SimilarStrength -                                       Low Influence/Non-Issuative
+19: Foreign Empirical Structure Dogma SimilarAthletic Habits -                                       Low Influence/Non-Issuative
+20: Foreign Empirical Structure Dogma SimilarDietary Patterns -                                        Low Influence/Non-Issuative
+21: Foreign Empirical Structure Dogma SimilarStructured Patriotism -                                        Low Influence/Non-Issuative
+22: Foreign Empirical Structure Dogma SimilarWill Power -                                        Low Influence/Non-Issuative
+23: Foreign Empirical Structure Dogma SimilarRigidity of Bones -                                       Low Influence/Non-Issuative
+24: Foreign Empirical Structure Dogma SimilarElasticity of Cell Reform -                                        Low Influence/Non-Issuative
+25: Foreign Empirical Structure Dogma SimilarImmunity Resilience -                                       Low Influence/Non-Issuative
+26: Foreign Empirical Structure Dogma SimilarOrganized Membership -                                        Low Influence/Non-Issuative
+27: Foreign Empirical Structure Dogma SimilarEmployment State -                                       Low Influence/Non-Issuative
+28: Foreign Empirical Structure Dogma SimilarEmotional Habitry -                                       Low Influence/Non-Issuative
+29: Foreign Empirical Structure Dogma SimilarLinguistic Skills -                                        Low Influence/Non-Issuative
+30: Foreign Empirical Structure Dogma SimilarPrior Budget Analytics -                                        Low Influence/Non-Issuative
+31: Foreign Empirical Structure Dogma SimilarTeamWork Shortcomings -                                        Low Influence/Non-Issuative
+32: Foreign Empirical Structure Dogma SimilarWeaknesses (Cellular) -                                        Low Influence/Non-Issuative
+33: Foreign Empirical Structure Dogma SimilarWeaknesses (Toxicity) -                                       Low Influence/Non-Issuative
+34: Foreign Empirical Structure Dogma SimilarWeaknesses (Environmental) -                                       Low Influence/Non-Issuative
+35: Foreign Empirical Structure Dogma SimilarWeaknesses (Conversational) -                                       Low Influence/Non-Issuative
+36: Foreign Empirical Structure Dogma SimilarWeaknesses (Sexual) -                                       Low Influence/Non-Issuative
+37: Foreign Empirical Structure Dogma SimilarWeaknesses (Emotional) -                                       Low Influence/Non-Issuative
+38: Foreign Empirical Structure Dogma SimilarWeaknesses (Logical) -                                       Low Influence/Non-Issuative
+39: Foreign Empirical Structure Dogma SimilarWeaknesses (Economic) -                                       Low Influence/Non-Issuative
+40: Foreign Empirical Structure Dogma SimilarWeaknesses (Neuro-Reactive) -                                       Low Influence/Non-Issuative
+41: Foreign Empirical Structure Dogma SimilarStrength (Cellular) -                                       Low Influence/Non-Issuative
+42: Foreign Empirical Structure Dogma SimilarStrength (Toxicity) -                                       Low Influence/Non-Issuative
+43: Foreign Empirical Structure Dogma SimilarStrength (Environmental) -                                       Low Influence/Non-Issuative
+44: Foreign Empirical Structure Dogma SimilarStrength (Conversational) -                                       Low Influence/Non-Issuative
+45: Foreign Empirical Structure Dogma SimilarStrength (Sexual) -                                       Low Influence/Non-Issuative
+46: Foreign Empirical Structure Dogma SimilarStrength (Emotional) -                                       Low Influence/Non-Issuative
+47: Foreign Empirical Structure Dogma SimilarStrength (Logical) -                                        Low Influence/Non-Issuative
+48: Foreign Empirical Structure Dogma SimilarStrength (Economic) -                                       Low Influence/Non-Issuative
+49: Foreign Empirical Structure Dogma SimilarStrength (Neuro-Reactive) -                                       Low Influence/Non-Issuative
+50: Foreign Empirical Structure Dogma SimilarSocio-Political Trend -                                       Low Influence/Non-Issuative
+51: Foreign Empirical Structure Dogma SimilarEducational Trend -                                       Low Influence/Non-Issuative
+52: Foreign Empirical Structure Dogma SimilarPhysiological Attractions -                                       Low Influence/Non-Issuative
+53: Foreign Empirical Structure Dogma SimilarNeuroChemical Attractions -                                       Low Influence/Non-Issuative
+54: Foreign Empirical Structure Dogma SimilarPhysical Athetic Trends -                                        Low Influence/Non-Issuative
+55: Foreign Empirical Structure Dogma SimilarPhysical Sexual Trends -                                       Low Influence/Non-Issuative
+56: Foreign Empirical Structure Dogma Similar Physical Violence Trends -                                       Low Influence/Non-Issuative
+
+Representative Trend
+
+1: Local Sacred Society Similar Income -                                     High Focus/Severe
+2: Local Sacred Society Similar Monetary Holdings -                     High Focus/Severe                    High Focus/Severe
+3: Local Sacred Society Similar Intellect -                     High Focus/Severe
+4: Local Sacred Society Similar Knowledge -                     High Focus/Severe
+5: Local Sacred Society Similar Spiritual Knowledge -                    High Focus/Severe
+6: Local Sacred Society Similar Technical Skill -                     High Focus/Severe
+7: Local Sacred Society Similar Cultural Training -                    High Focus/Severe
+8: Local Sacred Society Similar Entertainment Skill -                    High Focus/Severe
+9: Local Sacred Society Similar Marketting Knowledge -                    High Focus/Severe
+10: Local Sacred Society Similar Artistic Creativity -                     High Focus/Severe
+11: Local Sacred Society Similar Charisma -                     High Focus/Severe
+12: Local Sacred Society Similar Creative Solutions -                    High Focus/Severe
+13: Local Sacred Society Similar Allustria -                     High Focus/Severe
+14: Local Sacred Society Similar Conversational Dynamics -                    High Focus/Severe
+15: Local Sacred Society Similar Drug Dependancy -                     High Focus/Severe
+16: Local Sacred Society Similar Bias -                    High Focus/Severe
+17: Local Sacred Society Similar Pattern Habits -                     High Focus/Severe
+18: Local Sacred Society Similar Strength -                    High Focus/Severe
+19: Local Sacred Society Similar Athletic Habits -                    High Focus/Severe
+20: Local Sacred Society Similar Dietary Patterns -                     High Focus/Severe
+21: Local Sacred Society Similar Structured Patriotism -                     High Focus/Severe
+22: Local Sacred Society Similar Will Power -                     High Focus/Severe
+23: Local Sacred Society Similar Rigidity of Bones -                    High Focus/Severe
+24: Local Sacred Society Similar Elasticity of Cell Reform -                     High Focus/Severe
+25: Local Sacred Society Similar Immunity Resilience -                    High Focus/Severe
+26: Local Sacred Society Similar Organized Membership -                     High Focus/Severe
+27: Local Sacred Society Similar Employment State -                    High Focus/Severe
+28: Local Sacred Society Similar Emotional Habitry -                    High Focus/Severe
+29: Local Sacred Society Similar Linguistic Skills -                     High Focus/Severe
+30: Local Sacred Society Similar Prior Budget Analytics -                     High Focus/Severe
+31: Local Sacred Society Similar TeamWork Shortcomings -                     High Focus/Severe
+32: Local Sacred Society Similar Weaknesses (Cellular) -                    High Focus/Severe
+33: Local Sacred Society Similar Weaknesses (Toxicity) -                    High Focus/Severe
+34: Local Sacred Society Similar Weaknesses (Environmental) -                    High Focus/Severe
+35: Local Sacred Society Similar Weaknesses (Conversational) -                    High Focus/Severe
+36: Local Sacred Society Similar Weaknesses (Sexual) -                    High Focus/Severe
+37: Local Sacred Society Similar Weaknesses (Emotional) -                    High Focus/Severe
+38: Local Sacred Society Similar Weaknesses (Logical) -                    High Focus/Severe
+39: Local Sacred Society Similar Weaknesses (Economic) -                    High Focus/Severe
+40: Local Sacred Society Similar Weaknesses (Neuro-Reactive) -                    High Focus/Severe
+41: Local Sacred Society Similar Strength (Cellular) -                    High Focus/Severe
+42: Local Sacred Society Similar Strength (Toxicity) -                    High Focus/Severe
+43: Local Sacred Society Similar Strength (Environmental) -                    High Focus/Severe
+44: Local Sacred Society Similar Strength (Conversational) -                    High Focus/Severe
+45: Local Sacred Society Similar Strength (Sexual) -                    High Focus/Severe
+46: Local Sacred Society Similar Strength (Emotional) -                    High Focus/Severe
+47: Local Sacred Society Similar Strength (Logical) -                    High Focus/Severe
+48: Local Sacred Society Similar Strength (Economic) -                    High Focus/Severe
+49: Local Sacred Society Similar Strength (Neuro-Reactive) -                    High Focus/Severe
+50: Local Sacred Society Similar Socio-Political Trend -                    High Focus/Severe
+51: Local Sacred Society Similar Educational Trend -                    High Focus/Severe
+52: Local Sacred Society Similar Physiological Attractions -                    High Focus/Severe
+53: Local Sacred Society Similar NeuroChemical Attractions -                    High Focus/Severe
+54: Local Sacred Society Similar Physical Athetic Trends -                     High Focus/Severe
+55: Local Sacred Society Similar Physical Sexual Trends -                    High Focus/Severe
+56: Local Sacred Society Similar Physical Violence Trends -                    High Focus/Severe
